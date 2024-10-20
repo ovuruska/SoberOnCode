@@ -11,8 +11,6 @@ design and implement a custom CUDA kernel to accelerate the computation of the R
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Performance Benefits](#performance-benefits)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 In this project, we implement a CUDA kernel to optimize the **Root Mean Square Normalization (RMSNorm)** layer. This layer is commonly used in 
