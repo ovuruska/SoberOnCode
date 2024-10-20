@@ -27,7 +27,7 @@ To run this project, you need the following:
 - **NVIDIA GPU** with CUDA support
 - **CUDA Toolkit** installed (version 10.1 or later)
 - **Python 3.8+**
-- **PyTorch 1.6+** with CUDA support
+- **PyTorch 2.x+** with CUDA support
 
 ## Installation
 1. **Clone the repository**:
